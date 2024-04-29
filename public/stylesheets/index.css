@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#bt1{
+    width: 200px;
+    height: 50px;
+    background: rgb(21, 147, 219);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 20px;
+    font-weight: 500;
+    position: absolute;
+    top: 5%;
+    right: 5%;
+    cursor: pointer;
+}
+#bt2{
+    width: 200px;
+    height: 50px;
+    background: rgb(21, 147, 219);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 20px;
+    font-weight: 500;
+    position: absolute;
+    top: 12%;
+    right: 5%;
+    cursor: pointer;
+}
